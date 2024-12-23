@@ -1,4 +1,4 @@
-# M5 Project - Christmas Sales and Trends Prediction
+# Christmas Sales and Trends Prediction
 
 This project aims to analyze Christmas sales and trends, focusing on predicting the total price of items based on various features such as customer demographics, product category, quantity, discount, and weather. The analysis is performed using machine learning models, and the results are visualized with various plots.
 
